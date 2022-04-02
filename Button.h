@@ -12,9 +12,9 @@ class Button {
     static void isr1 ();
     static void isr2 ();
 
-    static Button * inst0;
-    static Button * inst1;
-    static Button * inst2;
+    static Button *inst0;
+    static Button *inst1;
+    static Button *inst2;
     void handleInterrupt ();
 
     uint8_t          pin;
