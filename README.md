@@ -1,4 +1,4 @@
-# Buttons-with-interruption-
+# Buttons with-interruption
 
 Voici un exemple de 3 boutons dont l’action est détectée sous interruption sur un ESP32.
 
