@@ -2,7 +2,6 @@
 #define BUTTON_H
 
 #include <Arduino.h>
-#include "Config.h"
 
 enum {COURT, LONG};
 
