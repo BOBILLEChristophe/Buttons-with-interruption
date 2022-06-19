@@ -4,6 +4,7 @@
 #include <Arduino.h>
 
 enum {COURT, LONG};
+#define BTN_PUSH_TIME 500   // < BTN_PUSH_TIME => appui court, > BTN_PUSH_TIME => appui long
 
 class Button {
   private:
